@@ -1,2 +1,2 @@
 # my-first-repo
-![lucas](img/lucashuijten.JPG)
+![lucas](img/lucashuijten.jpg)
